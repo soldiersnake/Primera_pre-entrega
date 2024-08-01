@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1722517518376",
+    "title": "Nuevo Producto 1 UPLOAD",
+    "description": "Descripción del nuevo producto 1",
+    "code": "NP002",
+    "price": 90.56,
+    "status": true,
+    "stock": 50,
+    "category": "Electronica",
+    "thumbnails": [
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  {
+    "id": "1722517540684",
+    "title": "Nuevo Producto 2",
+    "description": "Descripción del nuevo producto 2",
+    "code": "NP002",
+    "price": 99.98,
+    "status": true,
+    "stock": 50,
+    "category": "Deporte",
+    "thumbnails": [
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  }
+]
